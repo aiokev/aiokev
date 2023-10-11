@@ -1,0 +1,1 @@
+![status](https://api.statusbadges.me/badge/status/1017527341003571210?simple=true) ![playing](https://api.statusbadges.me/badge/playing/1017527341003571210) ![vscode](https://api.statusbadges.me/badge/vscode/1017527341003571210)
